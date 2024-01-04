@@ -18,13 +18,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-<<<<<<< HEAD
-- Solution URL: (hhttps://github.com/a-fox-on-the-moon/QR-code-component.git)
-- Live Site URL:(https://a-fox-on-the-moon.github.io/QR-code-component/)
-=======
-- Solution URL: (https://www.frontendmentor.io/solutions/qr-code-component-using-html-and-css-jCUx6FKikK)
-- Live Site URL: (https://a-fox-on-the-moon.github.io/QR-code-component/)
->>>>>>> 5d071d1eaffb9077c811e3ade0e309bf34d1fbbb
+- Solution URL : (https://www.frontendmentor.io/solutions/qr-code-component-using-html-and-css-jCUx6FKikK)
+- Live Site URL : (https://a-fox-on-the-moon.github.io/QR-code-component/)
 
 ## My process
 
